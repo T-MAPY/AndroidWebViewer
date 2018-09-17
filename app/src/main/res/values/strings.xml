@@ -4,4 +4,5 @@
     <string name="default_url">https://cestujok.cz/idspublic/</string>
     <string name="bad_url">Zadejte prosím validní adresu</string>
     <string name="cannot_load_page">Stránku nelze načíst</string>
+    <string name="url_redirect">Přesměrování na adresu</string>
 </resources>
