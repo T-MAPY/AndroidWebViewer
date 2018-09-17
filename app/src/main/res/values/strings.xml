@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebViewer</string>
+    <string name="url_address_hint">url adresa</string>
+    <string name="default_url">https://cestujok.cz/idspublic/</string>
+    <string name="bad_url">Zadejte prosím validní adresu</string>
+    <string name="cannot_load_page">Stránku nelze načíst</string>
+</resources>
